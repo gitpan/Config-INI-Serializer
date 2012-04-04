@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Config-INI-Serializer,
+version 0.001:
+
+  Round-trip INI serializer for nested data
+
+This software is copyright (c) 2012 by Stephen Adkins, Steffen Schwigon.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
